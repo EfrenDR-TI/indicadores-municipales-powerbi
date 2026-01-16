@@ -40,7 +40,7 @@ Esto convirtió al tablero en una herramienta clave para el análisis y seguimie
 El archivo original del tablero se encuentra disponible para su descarga:
 
 📁 **Power BI (.pbix)**  
-[Descargar archivo PBIX](powerbi/Indicadores_municipiales.pbix)
+[Descargar archivo PBIX](docs/powerbi/Indicadores_municipiales.pbix)
 
 
 ## 🔄 Cierre del proyecto y transición
