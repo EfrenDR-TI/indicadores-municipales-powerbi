@@ -25,6 +25,17 @@ Esto convirtió al tablero en una herramienta clave para el análisis y seguimie
 
 ---
 
+## 📊 Vistas del tablero
+
+### 🌎 Nivel nacional
+![Tablero nacional](images/powerbi_nacional.png)
+*Vista general del tablero a nivel nacional, con indicadores educativos agregados y visualización geográfica para el análisis territorial.*
+
+### 🧩 Nivel entidad y municipio
+![Tablero entidad y municipio](images/powerbi_municipal.jpg)
+*Vista del tablero con enfoque a nivel entidad y municipio, permitiendo el análisis detallado mediante filtros interactivos y segmentación territorial.*
+
+
 ## 🔄 Cierre del proyecto y transición
 
 El uso de Power BI como plataforma de visualización se mantuvo activo hasta la conclusión de la Comisión MEJOREDU, momento en el cual los módulos desarrollados dejaron de operar debido al término del licenciamiento de la herramienta.
