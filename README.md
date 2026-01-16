@@ -38,7 +38,7 @@ Este contexto motivó posteriormente la migración de la solución hacia un sist
 El análisis detallado del proyecto, estructura de datos y decisiones de diseño se encuentran documentados en el siguiente archivo:
 
 📄 **Análisis y Desarrollo del Sistema Web de Indicadores Municipales** 
-[Ver documento PDF](Analisis_y_Desarrollo_Tablero_powerbi_Indicadores_Municipales.pdf)
+[Ver documento PDF](docs/Analisis_y_Desarrollo_Tablero_powerbi_Indicadores_Municipales.pdf)
 
 
 ## 👤 Autor
