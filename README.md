@@ -28,11 +28,11 @@ Esto convirtió al tablero en una herramienta clave para el análisis y seguimie
 ## 📊 Vistas del tablero
 
 ### 🌎 Nivel nacional
-![Tablero nacional](images/powerbi_nacional.jpg)
+![Tablero nacional](docs/images/powerbi_nacional.jpg)
 *Vista general del tablero a nivel nacional, con indicadores educativos agregados y visualización geográfica para el análisis territorial.*
 
 ### 🧩 Nivel entidad y municipio
-![Tablero entidad y municipio](images/powerbi_municipal.jpg)
+![Tablero entidad y municipio](docs/images/powerbi_nacional.jpg)
 *Vista del tablero con enfoque a nivel entidad y municipio, permitiendo el análisis detallado mediante filtros interactivos y segmentación territorial.*
 
 
