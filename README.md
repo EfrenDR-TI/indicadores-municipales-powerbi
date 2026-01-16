@@ -35,6 +35,13 @@ Esto convirtió al tablero en una herramienta clave para el análisis y seguimie
 ![Tablero entidad y municipio](docs/images/powerbi_municipal.jpg)
 *Vista del tablero con enfoque a nivel entidad y municipio, permitiendo el análisis detallado mediante filtros interactivos y segmentación territorial.*
 
+## 📊 Archivo Power BI
+
+El archivo original del tablero se encuentra disponible para su descarga:
+
+📁 **Power BI (.pbix)**  
+[Descargar archivo PBIX](powerbi/Indicadores_municipiales.pbix)
+
 
 ## 🔄 Cierre del proyecto y transición
 
