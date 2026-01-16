@@ -32,3 +32,26 @@ El uso de Power BI como plataforma de visualización se mantuvo activo hasta la 
 No obstante, hasta el último día de operación se continuó trabajando en propuestas de integración y actualización de nuevos indicadores, atendiendo solicitudes de las áreas de investigación, por lo que las versiones del tablero se mantuvieron actualizadas hasta su cierre.
 
 Este contexto motivó posteriormente la migración de la solución hacia un sistema web basado en software libre, permitiendo preservar la información, el análisis y la visualización sin dependencia de licencias propietarias.
+
+## 📄 Documentación adicional
+
+El análisis detallado del proyecto, estructura de datos y decisiones de diseño se encuentran documentados en el siguiente archivo:
+
+📄 **Análisis y Desarrollo del Sistema Web de Indicadores Municipales** 
+[Ver documento PDF](Analisis_y_Desarrollo_Tablero_powerbi_Indicadores_Municipales.pdf)
+
+
+## 👤 Autor
+
+Efren Dolores  
+Ingeniero en Informática
+Especialista en análisis de sistemas, bases de datos y visualización de información
+
+Perfil profesional enfocado en el diseño, modelado e implementación de soluciones tecnológicas basadas en datos. Experiencia en análisis de requerimientos, estructuración de información, automatización de reportes y validación funcional de sistemas, con enfoque en la toma de decisiones y el análisis territorial.
+
+## 📌 Notas finales
+
+Este proyecto forma parte de un portafolio profesional, con enfoque en:
+- Análisis de requerimientos
+- Tratamiento y visualización de datos
+- Desarrollo de tablero orientados a información territorial
